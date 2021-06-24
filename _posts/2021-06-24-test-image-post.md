@@ -1,5 +1,5 @@
 ---
-title: Test image post...
+Title: Test image post...
 ___
 
 Image:
