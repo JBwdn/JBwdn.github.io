@@ -1,3 +1,3 @@
 ![](<../images/test_image.png>)
 
-a image generated using a spirograph simulator (2019)
+Spirograph simulator (p5js, 2019)
